@@ -14,7 +14,7 @@ namespace Zelenin;
 
 class smsru
 {
-	const VERSION = '1.4.2a';
+	const VERSION = '1.4.2b';
 	const HOST = 'https://sms.ru/';
 	const SEND = 'sms/send?';
 	const STATUS = 'sms/status?';

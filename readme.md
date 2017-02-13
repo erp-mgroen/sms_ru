@@ -1,6 +1,6 @@
 # sms_ru
 
-PHP-класс для работы с api сервиса [sms.ru](http://sms.ru)
+PHP-класс для работы с api сервиса [sms.ru](https://sms.ru)
 
 ## Использование
 

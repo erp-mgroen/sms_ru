@@ -1,5 +1,5 @@
 {
-	"name": "zelenin/smsru",
+	"name": "erp-mgroen/smsru",
 	"description": "PHP-класс для работы с api сервиса [sms.ru](http://sms.ru)",
 	"version": "1.4.2",
 	"type": "library",
@@ -11,7 +11,7 @@
 		{
 			"name": "Aleksandr Zelenin",
 			"email": "aleksandr@zelenin.me",
-			"homepage": "http://zelenin.me",
+			"homepage": "https://zelenin.me",
 			"role": "Developer"
 		}
 	],
